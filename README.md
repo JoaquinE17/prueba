@@ -7,4 +7,5 @@
       - - - 
 2. Este repositorio esta construido paso a paso en un tutorial  
     - Esta linea esta editada desde github v2  
-3. Añadiedo una nueva rama y linea
+3. Añadiedo una nueva rama y linea  
+    - Añadido desde rama r2
