@@ -10,4 +10,5 @@
 3. Añadiedo una nueva rama y linea  
     - Añadido desde rama r2
     - Agregando line r2 con nano
-4.
+4. Perdon aca agrego lo mio  
+    - Esta es una pull request desde github
