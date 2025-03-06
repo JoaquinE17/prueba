@@ -10,3 +10,4 @@
 3. Añadiedo una nueva rama y linea  
     - Añadido desde rama r2
     - Agregando line r2 con nano
+4.
